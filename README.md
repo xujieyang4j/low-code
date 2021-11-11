@@ -1,2 +1,2 @@
 # low-code
-low code paltform
+low code platform
